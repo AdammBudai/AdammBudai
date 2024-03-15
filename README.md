@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a computer science student at Charles University
+
+
+
 <!--
 **AdammBudai/AdammBudai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
